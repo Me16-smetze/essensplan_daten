@@ -1,0 +1,167 @@
+﻿Rezept_ID;Gericht;Standard_Portionen;kcal_pro_Portion;KH_g_pro_Portion;Protein_g_pro_Portion;Fett_g_pro_Portion;Quelle;Kategorie;Häufigkeit_12M;Aktiv_JN
+1;-- ohne Angabe --;1;500;;;;indiv. Werte eintragen!;;;ja
+2;Baustellen-Baguette Biel;1;450;;;;Biel;;;ja
+3;Bifteki in Metaxa Sauce;4;750;;;;Yazio Eigen;;;ja
+4;Big Burger;1;818;39;72;25;Burger, Nuggets & Co S.27;;;ja
+5;Big Mac Rolle;1,5;527;17;70;48;Yazio;;;ja
+6;Blumenkohl-Brokkoli-Auflauf;1;356;;;;Yazio;;;ja
+7;Blumenkohl-Würstchen-Pfanne;2;610;6;17;57;Expresskochen Low Carb 31;;;ja
+8;Blumenkohlauflauf;1,5;431;;;;Yazio Favorit;;;ja
+9;Boeuf Stroganoff;1;757;;;;Yazio;;;ja
+10;Bratkartoffeln mit Ei und Schinken;2;406;37;23;17;Yazio;;;ja
+11;Bunter Salat mit Süßkartoffeln;2;336;40;10;13;Yazio Eigen;;;ja
+12;"Burger (""Blockhouse"")";1;500;;;;einpflegen;;;ja
+13;Cheeseburger Pizza;1;414;24;20;26;Yazio;;;ja
+14;Cheeseburger Salat;4;577;4;32;48;Yazio;;;ja
+15;Chicken-Alfredo-Fladen;1;498;60;38;11;Löffelliebe Seite 40;;;ja
+16;Chili Cheese Burger;1;586;36;31;35;Burger, Nuggets & Co S. 35;;;ja
+17;Chili con Carne;2;545;27,9;39,7;27,7;Yazio Eigen;;;ja
+18;Chili Sin Carne;1;321;;;;Ox;;;ja
+19;Chili-Cheese-Fries;2;614;56;48;19;Löffelliebe Seite 99;;;ja
+20;Cremige Kartoffelsuppe mit Würstchen;5;505;45;31;21;Löffelliebe Seite 74;;;ja
+21;Cremige One-Pot-Hähnchen-Pasta;1;609;43;71;16;Löffelliebe Seite 68;;;ja
+22;Cremige Tomaten Hüttenkäse Pasta;1;522;;;;Yazio;;;ja
+23;Currywurst;1;674;69;20;38;Yazio;;;ja
+24;Döner;1,5;445;;;;Yazio Favorit;;;ja
+25;Dönerteller;2;398;;;;Yazio;;;ja
+26;Eier-Lauch-Salat mit Schinken;1;281;;;;Yazio Favorit;;;ja
+27;Essen gehen;1;500;;;;indiv. Werte eintragen!;;;ja
+28;Familien-Pizza Grundrezept;2;576;156;100;8;Löffelliebe Seite 94;;;ja
+29;Fitness-Döner;1;559;63,7;71,9;7,2;Löffelliebe Seite 102;;;ja
+30;Flammkuchen-Toast;4;439;26;20;28;Yazio Favorit;;;ja
+31;Fleisch-Kokos Bällchen;1;761;21,9;36,3;59,1;Yazio;;;ja
+32;Gebackene Aubergine mit Feta;1;331;;;;Yazio Favorit;;;ja
+33;Gebackene Kartoffeln mit Ranch Dressing;1;457;;;;Yazio;;;ja
+34;Gegrillte Curry-Puten-Spieße;2;437;;;;Yazio;;;ja
+35;Gegrillte Hähnchenbrust mit…;4;575;;;;Yazio;;;ja
+36;Gegrillte und gefüllte Ananas…;2;473;;;;Yazio;;;ja
+37;Gemischter Grillteller mit Salat;1;550;;;;Eigen: https://www.mariaesschmecktmir.com/haehnchenspiesse-grill/;;;ja
+38;Gemüse Reis Pfanne mit Pute;1;419;;;;Yazio;;;ja
+39;Gemüse-Hack-Pfanne;2;695;17;42;50;Expresskochen Low Carb 27;;;ja
+40;Gemüse-Rösti;1;397;;;;Yazio Favorit;;;ja
+41;Gemüseauflauf mit Zucchini...;4;390;;;;Yazio;;;ja
+42;Gnocchi mit Süßkartoffelsauce;2;418;;;;Yazio;;;ja
+43;Grillen;1;500;;;;indiv. Werte eintragen!;;;ja
+44;Hackfleisch-Zucchini-Lasagne;1;591;;;;Yazio;;;ja
+45;Hähnchen Alfredo mit Zucch…;1;534;;;;Yazio Favorit;;;ja
+46;Hähnchen Fajitas;3;450;;;;Yazio Favorit;;;ja
+47;Hähnchen mit Mango-Gurken-…;2;299;12;37,5;9,5;Yazio Favorit;;;ja
+48;Hähnchen-Curry mit Basmati…;3;400;43;30;10;Yazio Favorit;;;ja
+49;Hähnchenschnitzel mit Senfsauce und Pilzen;1,5;706;;;;Yazio Favorit;;;ja
+50;Italian Burger;1;0;;;;Burger, Nuggets & Co S.37;;;ja
+51;Karotten-Erdnuss-Risotto;2;302;;;;Yazio;;;ja
+52;Kartoffel-Blumenkohl-Auflauf mit Hähnchen;1;505;40;33;21;Löffelliebe Seite 86 verändert;;;ja
+53;Kartoffel-Käse-Strudel;0,555555556;411;26;54;15;Löffelliebe Seite 82;;;ja
+54;Kartoffel-Rucola-Suppe;2;226;;;;Yazio;;;ja
+55;Kartoffel-Spinat-Auflauf;2;438;;;;Yazio;;;ja
+56;Kartoffelpizza;1;600;;;;Eigen;;;ja
+57;Kartoffelpuffer;1;457;56;15;17;Yazio;;;ja
+58;Kartoffelpuffer (Reibekuchen);0,166666667;336;48;18;6;Löffelliebe Seite 48;;;ja
+59;Kartoffelstampf mit Spiegelei;2;328;;;;Eigen;;;ja
+60;Kartoffelsuppe;2;372;;;;Yazio;;;ja
+61;Kartoffelsuppe mit Blumenkohl;4;104;;;;Yazio;;;ja
+62;Kartoffelwaffel mit getrockneten Tomaten;1;265;;;;Yazio;;;ja
+63;Käse-Knutschies;0,5;450;30;17;3;Löffelliebe Seite 88;;;ja
+64;Käse-Lauch-Suppe mit Hack;1;568;;;;Yazio;;;ja
+65;Kichererbsen-Kokos-Curry m…;2;545;;;;Yazio;;;ja
+66;Knoblauch-Pasta mit Pilzen;2;393;;;;Yazio;;;ja
+67;Knuspriges Schweinefleisch mit Reis und Chilisauce;1;586;;;;Lykon A23;;;ja
+68;Kokos-Linsen-Curry mit Zucch…;2;499;;;;Yazio;;;ja
+69;Kräuter-Hähnchen mit Zucchini;1;307;;;;Yazio Favorit;;;ja
+70;Lasagne;3;465;27,6;27,3;26,5;Yazio;;;ja
+71;Lasagne-Suppe;1;260;;;;Yazio;;;ja
+72;Lauch-Schinken-Röllchen;1;929;33,5;47;48;Yazio Eigen;;;ja
+73;"Low Carb ""oopsie burger""";1;475;;;;Yazio;;;ja
+74;Low Carb Bodybuilding Pizza;1;568;;;;Yazio;;;ja
+75;Low-Carb-Hamburger;4;445;6;40;29;Yazio Favorit;;;ja
+76;Mac & Cheese;1;466;;;;Yazio;;;ja
+77;Magyar Gulyas;4;316;14;39;17;Yazio Eigen;;;ja
+78;Makkaroniauflauf mit Gemüse;2;422;54;19,5;12,5;Yazio Favorit;;;ja
+79;"Mälzers  Flammkuchen ""italiano""";4;962;;;;Mälzer Kochbuch;;;ja
+80;Mälzers Paprika Tortilla;2;572;;;;Mälzer Kochbuch;;;ja
+81;Mediterrane Joghurt-Pasta;1;612;80;41;13;Löffelliebe Seite 60;;;ja
+82;Mexikanischer Auflauf mit Rind…;2;495;35,1;34,4;21,8;Yazio Favorit;;;ja
+83;Mexikanischer Hackfleischauflauf;1;472;;;;Yazio Favorit;;;ja
+84;Mini-Zucchini-Pizzen;1;278;;;;Yazio Favorit;;;ja
+85;Moussaka;2;433;;;;Yazio Favorit;;;ja
+86;Niederländisches Haschee mit Bandnudeln;1;517;;;;Yazio;;;ja
+87;Nudeln mit vegetarischer Bolognese;1;540;80;22;13,5;Eigen;;;ja
+88;Nudelpfanne mit Mozzarella;2;403;;;;Yazio Favorit;;;ja
+89;Nudelsalat Caesar Style;1;447;33;29;20;Yazio Favorit;;;ja
+162;One-Pot-Pasta mit Hackfleisch und Gemüse;1;543;58;38;13;Lykon M7;;;ja
+90;One-Pot-Rahmspinat-Pasta;1;675;92;33;18;Löffelliebe Seite 71;;;ja
+91;One-Pot-Reis-Feta-Pfanne;1;506;69;34;12;Löffelliebe Seite 72;;;ja
+92;One-Pot-Taco-Pasta;4;533;35;63;15;Löffelliebe Seite 66;;;ja
+93;Panierte Hähnchenschnitzel mit Salat;1;660;47;45,2;30,6;Yazio;;;ja
+94;Panzanella Salat;1;492;;;;Yazio Favorit;;;ja
+95;Paprika-Hähnchen;4;683;65;63;17;Löffelliebe Seite 80;;;ja
+96;Paprika-Salat;2;230;;;;Yazio;;;ja
+97;Parmesan-Schnitzel auf Tomaten-Rucola-…;2;486;10;47;27;Expresskochen Low Carb 28;;;ja
+98;Pasta mit Pesto, Feta und Kirschtomaten;1;682;82,6;23;27,5;Lykon M24;;;ja
+99;Pasta mit selbstgemachter Tomatensoße;1;403;;;;Eigen;;;ja
+100;Pellkartoffeln;1;95;;;;Eigen;;;ja
+101;Pellkartoffeln mit Kräuterjoghurt;1;158;;;;Yazio;;;ja
+102;Pesto-Eier auf Brot;1;324;19;14,5;20;Yazio;;;ja
+103;Pfannen-Langos;1;531;71;31;11;Löffelliebe Seite 38;;;ja
+104;Pfannen-Sandwich;1;540;34;43;25;Löffelliebe Seite 44;;;ja
+105;Pfannenpizza mit Mozzarella;1;312;;;;Yazio Favorit;;;ja
+106;Pizza a la Toni;1;698;;;;Yazio;;;ja
+107;Porreesuppe;2;400;;;;Yazio;;;ja
+108;Puten-Kokos-Pfanne mit Mango;1;653;;;;Yazio;;;ja
+109;Puten-Wok mit Cashewkernen;1;470;;;;Yazio;;;ja
+110;Putensteak mit Ofengemüse;1;500;;;;Eigen;;;ja
+111;Regenbogensalat mit Erdnus…;4;262;;;;Yazio;;;ja
+112;Reispfanne mit Hähnchen;2;532;;;;Yazio;;;ja
+113;Reste (Pizza);1;500;;;;indiv. Werte eintragen!;;;ja
+114;Reste-Essen;1;400;;;;Yazio;;;ja
+115;Rinderhack-Süßkartoffelauflauf;1;578;;;;Yazio;;;ja
+116;Rouladen;1;520;10;42;34;Chat GPT;;;ja
+117;Rucola-Nudel-Salat;4;275;38,5;10,9;6,4;Yazio Favorit;;;ja
+118;Rucolasalat mit Pfirsich und Se…;1;260;;;;Yazio;;;ja
+119;Salat Tina;1;400;;;;Yazio;;;ja
+120;Salat-Häppchen;2;238;;;;Yazio;;;ja
+121;Salbei-Gnocchi mit Schinken;2;459;57;22;14,7;Yazio Favorit;;;ja
+122;Scharfe Hähnchen-Wraps;4;332;43;16;10;Yazio Favorit;;;ja
+123;Schnelle Flammkuchen Tortilla;1;194;;;;Yazio;;;ja
+124;Schnelle Protein-Gnocchi;1;669;95;52;7;Löffelliebe Seite 78;;;ja
+125;Schüttelpizza Gyros Style;4;490;17;59;22;Löffelliebe Seite 96;;;ja
+126;Schweinesteak mit Kartoffeln, Paprika und Zucchini;1;473;43;46;11;Yazio Eigen / Lykon M11;;;ja
+127;Sesam-Hähnchen mit Reis und Brokkoli;2;469;;;;einpflegen;;;ja
+128;Spaghetti  Bolognese;1;400;;;;indiv. Werte eintragen!;;;ja
+129;Spaghetti Carbonara;2;452;;;;Yazio;;;ja
+130;Spaghetti mit Linsenbällchen;1;487;74,9;20,3;;Yazio Favorit;;;ja
+131;Spätzle mit Champignons;1;488;;;;Yazio;;;ja
+132;Spinat-Parmesan-Pasta;2;317;;;;Yazio Favorit;;;ja
+133;Spitzkohl-Hack-Pfanne;1;206;9;24;7;Löffelliebe Seite 62;;;ja
+134;Spitzkohlpfanne mit Hackfleisch;1;375;;;;Yazio;;;ja
+135;Steak-Kebab;6;163;;;;Yazio;;;ja
+136;Strammer Max;1;400;;;;einpflegen;;;ja
+137;Suppe mit Hackfleisch, Kartoffeln, Brokkoli…;1;534;28;40;26;Lykon A3;;;ja
+138;Süßkartoffel-Toast mit Salat und Parmesan;1;300;;;;Yazio Favorit;;;ja
+139;Tex-Mex Spiegeleier mit Käse;1;399;13;28,4;25,1;Yazio Favorit;;;ja
+140;Toast Hawaii;0,5;400;;;;Yazio Eigen;;;ja
+141;Tomatenrisotto mit geröstetem Gemüse;1;383;;;;Yazio;;;ja
+142;Tortellini-Hack-Auflauf;1;576;58;50;14;Löffelliebe Seite 92;;;ja
+143;Tortilla-Käse Wrap;1;533;37;40;24;Löffelliebe Seite 46;;;ja
+163;Überbackene Aubergine mit Mozzarella und Tomaten;1;527;21;37;28;Lykon A10;;;ja
+144;Vegane Auberginenbällchen mit Spaghetti;1;403;;;;Yazio Favorit;;;ja
+145;Vegane Chili Cheese Hot Dogs;4;469;50;28;17;Yazio Favorit;;;ja
+146;Vegane Currywurst;2;416;;;;Yazio Favorit;;;ja
+147;Vegane Pasta Chips;4;311;;;;Yazio;;;ja
+148;Vegane Pizza Stromboli;1;474;;;;Yazio;;;ja
+149;Vegane Zucchinisuppe;2;213;;;;Yazio Favorit;;;ja
+150;Veganer Makkaroni-Salat;1;432;63;12;13;Yazio;;;ja
+151;Veganes Pizza Toast;2;345;;;;Yazio Favorit;;;ja
+152;Vegetarische Frikadelle;1;280;19;16;15;Yazio Eigen;;;ja
+153;Veggie-Burger;3;509;69;23;13;Löffelliebe Seite 100;;;ja
+154;Zucchini Spaghetti;1;618;;;;Yazio;;;ja
+155;Zucchini Spaghetti mit Hähnchen;2;262;;;;Yazio Eigen;;;ja
+156;Zucchini-Hack-Pfanne;4;537;;;;Yazio;;;ja
+157;Zucchini-Nudeln mit Linsenbolognese;1;554;;;;Yazio Favorit;;;ja
+158;Zucchini-Pizza-Schiffchen;2;488;;;;Yazio;;;ja
+159;Zucchini-Röllchen mit Ziegenfri…;1;371;;;;Yazio;;;ja
+160;Zucchini-Schinken-Lasagne;1;361;;;;Yazio;;;ja
+161;Zucchini-Tomaten-Frittata mit;1;502;;;;Yazio;;;ja
+164;Bacon-Egg-Burger;1;;;;;Burger, Nuggets & Co S.43;;;ja
+165;Pasta mit Mangold;1;528;74;21;14,5;Yazio;;;ja
+166;Big Mac Salat;1;;;;;Yazio;;;ja
